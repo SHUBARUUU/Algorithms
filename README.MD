@@ -16,7 +16,9 @@ Efficiency matters, some algorithms reach the answer faster or use fewer resourc
 
 Algorithms can contain widely known paradigms (backbone) or algorithmic techniques.
 
+
 Examples of Common Algorithms:
+
 
 Sorting Algorithms: Organize data in order (e.g., Bubble Sort, Merge Sort, Quick Sort).
 
