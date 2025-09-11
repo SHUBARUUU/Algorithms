@@ -1,4 +1,4 @@
-**Paradigms**
+**Algorithm Paradigms**
 
 _A backbone of an algorithm_ -- A way to strategize and organize how to solve a problem with code.
 
